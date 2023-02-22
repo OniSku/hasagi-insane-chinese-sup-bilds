@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "63f5ebc4cb9525ac9aa7c909"
+  },
+  "name": "AP",
+  "mythItem": "Ночной жнец",
+  "secItem": "Зуб нашора"
+},{
+  "_id": {
+    "$oid": "63f5ec1ccb9525ac9aa7c90a"
+  },
+  "name": "normies",
+  "mythItem": "Арбалет бессертия"
+}]
